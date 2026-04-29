@@ -1,0 +1,14 @@
+C:\Users\SMILE\OneDrive\Desktop\Projects\CSharp_Calculator\bin\Debug\net10.0\CSharp_Calculator.exe
+C:\Users\SMILE\OneDrive\Desktop\Projects\CSharp_Calculator\bin\Debug\net10.0\CSharp_Calculator.deps.json
+C:\Users\SMILE\OneDrive\Desktop\Projects\CSharp_Calculator\bin\Debug\net10.0\CSharp_Calculator.runtimeconfig.json
+C:\Users\SMILE\OneDrive\Desktop\Projects\CSharp_Calculator\bin\Debug\net10.0\CSharp_Calculator.dll
+C:\Users\SMILE\OneDrive\Desktop\Projects\CSharp_Calculator\bin\Debug\net10.0\CSharp_Calculator.pdb
+C:\Users\SMILE\OneDrive\Desktop\Projects\CSharp_Calculator\obj\Debug\net10.0\CSharp_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMILE\OneDrive\Desktop\Projects\CSharp_Calculator\obj\Debug\net10.0\CSharp_Calculator.AssemblyInfoInputs.cache
+C:\Users\SMILE\OneDrive\Desktop\Projects\CSharp_Calculator\obj\Debug\net10.0\CSharp_Calculator.AssemblyInfo.cs
+C:\Users\SMILE\OneDrive\Desktop\Projects\CSharp_Calculator\obj\Debug\net10.0\CSharp_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\SMILE\OneDrive\Desktop\Projects\CSharp_Calculator\obj\Debug\net10.0\CSharp_Calculator.dll
+C:\Users\SMILE\OneDrive\Desktop\Projects\CSharp_Calculator\obj\Debug\net10.0\refint\CSharp_Calculator.dll
+C:\Users\SMILE\OneDrive\Desktop\Projects\CSharp_Calculator\obj\Debug\net10.0\CSharp_Calculator.pdb
+C:\Users\SMILE\OneDrive\Desktop\Projects\CSharp_Calculator\obj\Debug\net10.0\CSharp_Calculator.genruntimeconfig.cache
+C:\Users\SMILE\OneDrive\Desktop\Projects\CSharp_Calculator\obj\Debug\net10.0\ref\CSharp_Calculator.dll
